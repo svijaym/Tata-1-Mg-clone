@@ -26,6 +26,15 @@ var combo = [
         mrp:"MRP₹46044% OFF",
         price:"₹571.65",
     },
+    {
+        image: "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618478725/nserdswbkk78ojvsyzhr.jpg",
+        name: "Contour Plus Blood Glucose Test Strip",
+        inline: "box of 2 lb Powder",
+        rate: 3.2,
+        ratingno: "17 ratings",
+        mrp: "MRP₹18020% OFF",
+        price: "₹3059",
+    },
     { 
         image:"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1643707151/wngfmvn2n6mlxrtol1df.jpg",
         name: "Combo Pack of Sri Sri Tattva Chyawanprash 1kg & 1mg High Fiber with Pre- & Probiotics with Inulin, Guar gum, & Resistant Maltodextrin Unflavoured with Resistant Maltodextrin, Inulin and Guar Gum 200gm",
