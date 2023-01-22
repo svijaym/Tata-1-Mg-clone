@@ -360,4 +360,13 @@ var combo = [
         ratingno: "17 ratings",
         mrp: "MRP₹18020% OFF",
         price: "₹3059",
-    }];
+    },
+    {
+        image: "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618478725/nserdswbkk78ojvsyzhr.jpg",
+        name: "Contour Plus Blood Glucose Test Strip",
+        inline: "box of 2 lb Powder",
+        rate: 3.2,
+        ratingno: "17 ratings",
+        mrp: "MRP₹18020% OFF",
+        price: "₹3059",
+    };
